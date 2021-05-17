@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente não possuo trabalho
 
-- 🌱 Estou aprendendo CSS, Javascript, conceitos de React
+- 🌱 Estou aprendendo Estruturação de HTML, CSS responsivo (flexbox e grid), manipulação de DOM com Javascript, consumo de API's e conceitos básicos de React
 
 - 📫 Como entrar em contato: **hugopatricio51@gmail.com**
 
