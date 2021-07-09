@@ -8,3 +8,5 @@
 - 📫 Como entrar em contato: **hugopatricio51@gmail.com**
 
 - 🔭 Graduando em Sistemas de informação - UFC Quixadá
+
+- Curriculo: https://resume.io/r/KHmsKFbNF
