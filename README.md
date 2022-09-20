@@ -1,9 +1,9 @@
 <h1 align="center"> Hugo Patrício </h1>
 <h3 align="center">Um aprendiz de desenvolvimento WEB com foco em Front-end</h3>
 
-- 🔭 Atualmente não sou bolsista frontend na Lead Dell
+- 🔭 Atualmente sou bolsista frontend na Lead Dell
 
-- 🌱 Estou aprendendo Estruturação de HTML, CSS responsivo (flexbox e grid), manipulação de DOM com Javascript, consumo de API's e conceitos de React
+- 🌱 Atualmente focado em aprender mais sobre o React e Typescript
 
 - 📫 Como entrar em contato: **hugopatricio51@gmail.com**
 
@@ -12,3 +12,8 @@
 - Curriculo: https://resume.io/r/KHmsKFbNF
 
 - Linkedin: https://www.linkedin.com/in/hugopdf/
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=HugoPDF5&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPDF5&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
