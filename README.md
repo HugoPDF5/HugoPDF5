@@ -1,5 +1,5 @@
 <h1 align="center"> Hugo Patrício </h1>
-<h3 align="center">Um aprendiz de desenvolvimento WEB com foco em Front-end</h3>
+<h3 align="center">Desenvolvedor Web com foco em Front-end</h3>
 
 - 🔭 Atualmente sou bolsista frontend na Lead Dell
 
