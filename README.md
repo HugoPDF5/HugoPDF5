@@ -14,6 +14,7 @@
 - Linkedin: https://www.linkedin.com/in/hugopdf/
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=HugoPDF5&show_icons=true&theme=vision-friendly-dark" alt="hugo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoPDF5&layout=compact&theme=vision-friendly-dark" alt="hugo's most languages"/>
+<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HugoPDF5&show_icons=true&theme=vision-friendly-dark" alt="hugo's stats"/>
+<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HugoPDF5&layout=compact&theme=vision-friendly-dark" alt="hugo's most languages"/>
 </p>
+
