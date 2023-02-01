@@ -1,8 +1,6 @@
 <h1 align="center"> Hugo Patrício </h1>
 <h3 align="center">Desenvolvedor Web com foco em Front-end</h3>
 
-- 🔭 Atualmente sou desenvolvedor frontend atuando como bolsista no Dell Lead
-
 - 🌱 Atualmente focado em aprender mais sobre o React e Typescript
 
 - 🔭 Graduado em Sistemas de informação - UFC Quixadá
